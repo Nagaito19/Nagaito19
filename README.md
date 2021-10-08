@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nagaito19
+- 👀 I’m interested in games and android apps
+- 🌱 I’m currently learning testing and python 
+- 💞️ I’m looking to collaborate on any proyect to learn and practice 
+- 📫 How to reach me nagaito19@gmail.com
